@@ -14,3 +14,7 @@
     margin: 2px;
     
 }
+
+.filho:first-of-type{
+    flex-grow: 0.5;
+}
