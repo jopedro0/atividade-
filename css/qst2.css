@@ -1,0 +1,17 @@
+div {
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.filho {
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    margin: 5px;
+}

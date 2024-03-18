@@ -1,0 +1,16 @@
+.pai{
+    width:700px;
+    height:350px;
+    display:flex ;
+    flex-wrap: wrap;
+    background-color: brown;
+}
+
+.filho {
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    margin: 2px;
+    
+}
